@@ -12,6 +12,11 @@ Each folder contains templates, examples, and guides mentioned in my videos.
 ### 1️⃣ Email Templates
 📁 [`/email-templates`](./email-templates)  
 Learn how to professionally contact potential professors or research advisors.  
+
+<p>
+  <img src="./email-templates/Preview.jpeg" alt="Preview" width="750"/>
+</p>
+
 👉 **Download directly:**  
 [Email Template for Contacting Professors (Word)](./email-templates/Email_Template_Professor_Contact.docx)  
 [Email Template for Contacting Professors (PDF)](./email-templates/Email_Template_Professor_Contact.pdf)  
